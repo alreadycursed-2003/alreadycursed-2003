@@ -62,10 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
 
-### 🧠 Neural Feed
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByZ3A5eWp6ZzRyeG5ueG5ueG5ueG5ueG5ueG5ueG5ueG51JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQC1Q7UsC88/giphy.gif" width="400">
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
